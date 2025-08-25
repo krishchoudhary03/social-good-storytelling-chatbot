@@ -30,8 +30,8 @@ These future updates will ensure the chatbot remains a leading solution for comm
 Thanks 
 
 Project by ➖
-Neah Sharma           ➖ (2415500309)
+Neha Sharma           ➖ (2415500309)
 Krish Choudhary       ➖ (2415500243)
 Priyansu              ➖ (2415500364)
-Anuroop               ➖ (2415500094)
+Anuroop Gupta            ➖ (2415500094)
 
