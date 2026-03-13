@@ -1,8 +1,8 @@
-# social-good-storytelling-chatbot
+# Social-good-storytelling-chatbot
 Social Good Storytelling Chatbot is an AI-powered tool designed to help communities share their stories and inspire action.
 
 Working PPT: https://drive.google.com/file/d/1Rb3gjmwvwxfqvRVL1pbculzxSGlZVzKS/view?usp=drivesdk
-
+Working live link of the Project - https://huggingface.co/spaces/AnuroopGupta/Social-Chat
 Report :  
 
 Project Report: Social Good Storytelling Chatbot
@@ -33,5 +33,5 @@ Project by ➖
 Neha Sharma           ➖ (2415500309)
 Krish Choudhary       ➖ (2415500243)
 Priyansu              ➖ (2415500364)
-Anuroop Gupta            ➖ (2415500094)
+Anuroop Gupta         ➖ (2415500094)
 
